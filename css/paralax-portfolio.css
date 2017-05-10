@@ -23,11 +23,12 @@ body {
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
+	background-color: #e0e3e8;
 }
 
 .bgimg-1 {
     min-height: 700px;
-    background-image: url("images/main/nemisis-detail.jpg");
+    background-image: url("../images/dearly-departed.jpg");
 }
 
 
@@ -43,6 +44,7 @@ body {
 
 .hero {
     padding: 40px 70px;
+	padding-bottom: 15%;
     color: #000;
     background-color: #C8CFA9;
    

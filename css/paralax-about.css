@@ -3,16 +3,22 @@
 
 
 
-@media only screen and (max-device-width: 1024px) {
+@media only screen and (max-device-width: 900px) {
     .img1 {
         background-attachment: scroll;
     }
 }
 
+/*mobile media query*/
+@media screen and (max-width: 600px){
+    ul.topnav li.right, 
+    ul.topnav li {float: none;}
+}  
+
 body {
     margin: 0;
     color: #CDDBDB;
-    font: 400 15px/1.8 Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    font: 400 15px/1.8 Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"; 
 }
 
 
@@ -22,12 +28,13 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
 }
 
 .bgimg-1 {
     min-height: 700px;
-    background-image: url("images/main/nemisis-detail.jpg");
+    background-image: url("../images/digital-portrait.jpg");
+	background-color:#39443d;
 }
 
 
@@ -43,10 +50,15 @@ body {
 
 .hero {
     padding: 40px 70px;
+	padding-bottom: 100px;
     color: #000;
     background-color: #C8CFA9;
    
    
+}
+
+p{
+	text-indent: 3em;
 }
 
 .caption {
