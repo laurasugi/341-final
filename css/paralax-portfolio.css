@@ -9,6 +9,16 @@
     }
 }
 
+.blurb {
+	float:right;
+	text-align: center;
+}
+img {
+	align-content: left;
+	
+	
+}
+
 body {
     margin: 0;
     color: #CDDBDB;
