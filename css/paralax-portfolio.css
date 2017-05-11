@@ -61,7 +61,8 @@ body {
     padding: 40px 70px;
 	padding-bottom: 15%;
     color: #000;
-    background-color: #C8CFA9
+    background-color: #C8CFA9;
+	position:relative;
    
 }
 
