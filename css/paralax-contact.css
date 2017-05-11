@@ -45,6 +45,8 @@ body {
     padding: 40px 70px;
     color: #000;
     background-color: #C8CFA9;
+	text-align: left;
+	
    
    
 }
@@ -82,4 +84,6 @@ h2 {
     font: 20px; 
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
     letter-spacing: 5px;
+	text-align: left;
+	float:left;
 }

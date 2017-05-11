@@ -35,7 +35,7 @@ body {
 
 
 .bgimg-1 {
-    position: static;
+    position: relative;
     opacity: 0.75;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -72,27 +72,8 @@ body {
 	
 }
 
-.description-container {
-    position: relative;
-}
-
-.description {
-    padding: 50px 80px;
-    color: #000;
-    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-    background-color: #C8CFA9;
-    text-align: center;
-    text-align: justify;
-    text-indent: 50px;
-}
 
 
 
 
-h2 {
-    color: #111;
-    text-transform: uppercase;
-    font: 20px; 
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-    letter-spacing: 5px;
-}
+
