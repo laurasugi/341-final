@@ -2,19 +2,31 @@
 /* CSS Document */
 
 
-
-@media only screen and (max-device-width: 1024px) {
-    .img1 {
-        background-attachment: scroll;
-    }
-}
-
 /*media query for mobile*/
-@media screen and (max-width: 600px){
+@media screen and (max-width : 342px ){
     ul.topnav li.right, 
-    ul.topnav li {float: none;}
+    ul.topnav li, #top {float: none;}
+}
+@media screen and (max-width : 501px ){
+    ul.topnav li.right, 
+    ul.topnav li  {float: none;}
 }
 
+
+#top {
+    color: #000000;
+    font-size: 300%;
+    letter-spacing: 7px;
+	text-align: left;
+	position: fixed;
+  	left: 0;
+  	top: 95%;
+  	width: 8em;
+  	margin-top: -2.5em;
+  	
+
+	
+}
 body {
     margin: 0;
     color: #CDDBDB;
@@ -23,7 +35,7 @@ body {
 
 
 .bgimg-1 {
-    position: relative;
+    position: static;
     opacity: 0.75;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -32,20 +44,15 @@ body {
 }
 
 .bgimg-1 {
-    min-height: 700px;
+    min-height: 600px;
     background-image: url("../images/nemisis-detail.jpg");
+	position:static;
 }
 
 
 
 
-#top {
-    color: #000000;
-    font-size: 55px;
-    letter-spacing: 12px;
-	text-align: left;
 
-}
 
 .hero {
     padding: 40px 70px;
@@ -56,8 +63,8 @@ body {
 }
 
 .caption {
-	position: absolute;
-	top: 430px;
+	position: relative;
+	top: 457px;
 	left: 39px;
 	width: 100%;
 	color: #000;
