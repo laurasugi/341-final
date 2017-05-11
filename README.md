@@ -18,7 +18,7 @@ I made seperate sheets for specific effects and elements such as parallax, my na
 helped me stay organized and avoid frusturation.
 
 ![Image](.images/sitemap.png)
-![Image](images/wireframe.jpg)
+![Image](.images/wireframe.jpg)
 
 •Use of multiple pages, including at the very least: i.Homepage
 ii.About
