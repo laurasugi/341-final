@@ -5,7 +5,7 @@
 /*media query for mobile*/
 @media screen and (max-width : 342px ){
     ul.topnav li.right, 
-    ul.topnav li, #top {float: none;}
+	ul.topnav li, #top {float: none;}
 }
 @media screen and (max-width : 501px ){
     ul.topnav li.right, 

@@ -42,9 +42,14 @@ body {
 
 #top {
     color: #000000;
-    font-size: 55px;
-    letter-spacing: 12px;
+    font-size: 300%;
+    letter-spacing: 7px;
 	text-align: left;
+	position: fixed;
+  	left: 0;
+  	top: 95%;
+  	width: 8em;
+  	margin-top: -2.5em;
 
 }
 

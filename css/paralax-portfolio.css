@@ -5,27 +5,13 @@
 
 @media only screen and (max-device-width: 1024px) {
     .img1 {
-        background-attachment: scroll;
+        background-attachment:scroll;
     }
 }
 
-.blurb {
-	float:right;
+.main{
 	text-align: center;
 }
-img {
-	align-content: left;
-	
-	
-}
-
-body {
-    margin: 0;
-    color: #CDDBDB;
-    font: 400 15px/1.8 Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-}
-
-
 .bgimg-1 {
     position: relative;
     opacity: 0.75;
@@ -35,6 +21,20 @@ body {
     background-size: cover;
 	background-color: #e0e3e8;
 }
+
+
+
+
+
+body {
+    margin: 0;
+    color: #CDDBDB;
+    font: 400 15px/1.8 Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	
+	
+}
+
+
 
 .bgimg-1 {
     min-height: 700px;
@@ -46,9 +46,14 @@ body {
 
 #top {
     color: #000000;
-    font-size: 55px;
-    letter-spacing: 12px;
+    font-size: 300%;
+    letter-spacing: 7px;
 	text-align: left;
+	position: fixed;
+  	left: 0;
+  	top: 95%;
+  	width: 8em;
+  	margin-top: -2.5em;
 
 }
 
@@ -56,8 +61,7 @@ body {
     padding: 40px 70px;
 	padding-bottom: 15%;
     color: #000;
-    background-color: #C8CFA9;
-   
+    background-color: #C8CFA9
    
 }
 
@@ -95,3 +99,8 @@ h2 {
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
     letter-spacing: 5px;
 }
+
+
+
+
+
