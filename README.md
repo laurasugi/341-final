@@ -17,8 +17,8 @@ of my css files in the past were too long and not organized and made it difficul
 I made seperate sheets for specific effects and elements such as parallax, my navbar and forms.  This change saved me a lot of time and
 helped me stay organized and avoid frusturation.
 
-![site map](images/sitemap.jpg)
-![wireframe](images/wireframe.jpg)
+![Image](.images/sitemap.png)
+![Image](images/wireframe.jpg)
 
 •Use of multiple pages, including at the very least: i.Homepage
 ii.About
