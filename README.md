@@ -1,9 +1,6 @@
 # 341-final
 # README
 ______
-Readme & documentation. Very important! Your readme.md for this project should document your: ◦Ideas
-◦Process of development
-◦Images of your hand-drawn and/or digital materials (wireframes, code editor, etc)
 # 1)Development Process
 I spent quite a bit of time in development for this project, and think I did a fairly good job with pre-planning to help avoid issues
 during the later stages.  Starting out, I made multiple wire frames and a site map in photoshop, which are included at the end of this
@@ -20,14 +17,16 @@ helped me stay organized and avoid frusturation.
 ![sitemap](images/sitemap.png)
 ![wireframe](/images/wireframe.jpg)
 
-•Use of multiple pages, including at the very least: i.Homepage
-ii.About
-iii.Contact
-iv.Gallery
+# 2) Content
+For this project I choose to keep the content and layout of the site fairly simple.  I included a home page, portfolio gallery, contact page and about.  I chose to keep the content simple so that I would be able to focus on the design of my site.  
 
-•Use of -you guessed it!- web design. You should consider some of the things we've done this semester to spruce up your site. Some examples are: ◦Links, Images, Tables, Forms
-◦Iframes, Media
-◦Typography
-◦Boxes, Borders, Menus
-◦Layout, RWD, Parallax Design
+# 3) Design Elements
+
+I included parallax design, images, forms, boxes, menus, RWD and other design elements in my site. As usual, I struggled a fair bit wiith some of these elements.  The RWD was particularilly difficult for me, I ran out of time and am not happy with the way my site looks on mobile devices.  The main issue that I had was making the background images scale down with the page.  The images were also a bit of an issue with me, I originally wanted my portfolio page to have the images on the left side and the descriptions next to each image on the right side of the page but I wasn't able to format it in a way that looked good so I ended up just centering all of them.  
+
+![original design](images/wireframe2.jpg)
+
+![final design](images/wireframe3.jpg)
+
+Overall I am very happy with how my site looks and functions on a computer, I think that even though the design is a bit simple it looks very professional and clean.  I wish I had been able to make the mobile version better but overall I am pleased with the outcome.    
 
